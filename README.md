@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AhmedBella
 - 👀 I’m interested in hardware and software.  
-- ⚙️ I'm currently working on a long-range UAV
-- 🌱 I’m currently learning flight mechanics and Computer Science
+- ⚙️ I'm currently working on World Dataset Library
+- 🌱 I’m currently learning react (again...)
 - 📫 You can reach me at ducahmed@icloud.com
-
