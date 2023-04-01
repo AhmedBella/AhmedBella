@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AhmedBella
 - 👀 I’m interested in hardware and software.  
-- ⚙️ I'm currently working on World Dataset Library
-- 🌱 I’m currently learning more django to prove the haters wrong
+- ⚙️ I'm currently working on AI stuff
+- 🌱 I’m currently learning about artificial intelligence and embedded finance
 - 📫 You can reach me at ducahmed@icloud.com
